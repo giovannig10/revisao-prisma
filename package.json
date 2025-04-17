@@ -1,7 +1,7 @@
 {
-  "name": "animes-api",
+  "name": "relacionamento-back",
   "version": "1.0.0",
-  "description": "Projeto base de uma API com MVC",
+  "description": "Projeto back-end com relacionamento",
   "keywords": [
     "nodejs",
     "javascript",
